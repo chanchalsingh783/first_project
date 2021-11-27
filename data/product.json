@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "title":"Fencing Pole Eaco Steel Rudder Octagonal",
+        "size":"40 MM",
+        "design": "GI Jacketed",
+        "brand":"BSU",
+        "origin":"Made In India",
+        "weight": "2 Kg",   
+        "img": "http://127.0.0.1/chanchal/bhavya_shriti_udhyoug/mailnew/assets/images/products/eacho-steel-rudder/esr4.jpg"
+    },
+    {
+        "id":2,
+        "title":"Eaco Steel Rudder Squre",
+        "size":"50 MM",
+        "design": "GI Jacketed",
+        "brand":"BSU",
+        "origin":"Made In India",
+        "weight":"2.5 Kg",
+        "img": "assets/images/products/bahu-balli-anchor/bbAnchor3.jpg"
+    },
+    {
+        "id":3,
+        "title":"Bahu-Bali Trellis",
+        "size":"",
+        "design": "Seasoned & Treated Bamboo",
+        "brand":"BSU",
+        "origin":"Made In India",
+        "material":"HDPE Coated",
+        "img": "assets/images/products/imgs/37.jpg",
+        "length":"5'/6'/7"
+    },
+    {
+        "id":4,
+        "title":"Solar Current Fencing Pole With Ground Anchor",
+        "design":"Seasoned & Treated Bamboo",
+        "brand":"BSU",
+        "origin":"Made In India",
+        "weight":"",
+        "color":"Black",
+        "material":"HDPE",
+        "img": "assets/images/products/bahu-balli-anchor/bbAnchor5.jpg",
+        "length": ""
+    },
+    {
+        "id": 5,
+        "title":"Pre Prefabricated Boundry Wall",
+        "design":"Seasoned & Treated Bamboo",
+        "brand":"BSU",
+        "origin":"Made In India",
+        "color":"Black",
+        "material":"HDPE",
+        "img": "assets/images/products/imgs/11.jpg",
+        "length": ""
+    }
+
+]
